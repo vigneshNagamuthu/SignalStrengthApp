@@ -1,0 +1,8 @@
+# ninja log v5
+5	97	1751257962695174462	build.ninja	a7fe0a2fa809cfa7
+4	2488	1751257353436045864	CMakeFiles/appmodules.dir/OnLoad.cpp.o	4446b922b3c014fc
+0	3	0	clean	adeba89fa57b8d9e
+0	5	0	/home/ubuntu/Documents/Sandbox/SignalStrengthApp/android/app/.cxx/Debug/3m506757/armeabi-v7a/CMakeFiles/cmake.verify_globs	a26dfefa7c86730d
+4	2081	1751257353028031714	CMakeFiles/appmodules.dir/home/ubuntu/Documents/Sandbox/SignalStrengthApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	7727e1b48b7ee64
+2488	2536	1751257353492047807	/home/ubuntu/Documents/Sandbox/SignalStrengthApp/android/app/build/intermediates/cxx/Debug/3m506757/obj/armeabi-v7a/libappmodules.so	66a6eac85067adf1
+0	5	0	/home/ubuntu/Documents/Sandbox/SignalStrengthApp/android/app/.cxx/Debug/3m506757/armeabi-v7a/CMakeFiles/cmake.verify_globs	a26dfefa7c86730d
