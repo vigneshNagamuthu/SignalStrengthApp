@@ -1,0 +1,20 @@
+# ninja log v5
+0	9	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+0	1314	1751339699237821842	CMakeFiles/appmodules.dir/Users/sean/Local/Latest/SignalStrengthApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	5c452d95899df35d
+0	1424	1751339699345663181	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3ce9a10bf57f95c7
+1424	1475	1751339699402821518	/Users/sean/Local/Latest/SignalStrengthApp/android/app/build/intermediates/cxx/Debug/243p3z44/obj/x86_64/libappmodules.so	77df93391659d022
+1	10	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+3	12	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+1	10	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+1	9	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+0	12	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+0	13	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+0	8	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+1	11	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+1	9	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+0	9	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+1	10	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+1	9	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+3	16	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+1	66	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b
+1	18	0	/Users/sean/Local/Latest/SignalStrengthApp/android/app/.cxx/Debug/243p3z44/x86_64/CMakeFiles/cmake.verify_globs	248e6db8d43f099b

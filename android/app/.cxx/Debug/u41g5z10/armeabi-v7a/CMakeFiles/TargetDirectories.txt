@@ -1,0 +1,3 @@
+/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/armeabi-v7a/CMakeFiles/rebuild_cache.dir

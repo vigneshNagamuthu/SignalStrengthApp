@@ -1,0 +1,21 @@
+# ninja log v5
+1	10	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+0	1605	1751377049509830379	CMakeFiles/appmodules.dir/Users/sean/Local/SignalStrengthApp-V1_edited_the_getlocation/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	89fe12043b2016c2
+0	1751	1751377049656334904	CMakeFiles/appmodules.dir/OnLoad.cpp.o	7c13bf39f8910874
+1751	1797	1751377049707014441	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/build/intermediates/cxx/Debug/u41g5z10/obj/arm64-v8a/libappmodules.so	74e9136d52be0007
+0	22	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+1	28	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+4	89	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+0	21	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+0	25	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+1	22	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+1	29	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+1	23	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+0	24	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+0	24	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+1	25	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+0	21	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+0	28	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+0	23	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+0	21	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
+3	27	0	/Users/sean/Local/SignalStrengthApp-V1_edited the getlocation/android/app/.cxx/Debug/u41g5z10/arm64-v8a/CMakeFiles/cmake.verify_globs	d222d78ca4302833
