@@ -7,7 +7,10 @@ import com.facebook.react.uimanager.ViewManager
 
 class SignalStrengthPackage : ReactPackage {
     override fun createNativeModules(reactContext: ReactApplicationContext): List<NativeModule> {
-        return listOf(SignalStrengthModule(reactContext))
+        return listOf(
+            SignalStrengthModule(reactContext),
+            LocationModule(reactContext)
+        )
     }
 
     override fun createViewManagers(reactContext: ReactApplicationContext): List<ViewManager<*, *>> {

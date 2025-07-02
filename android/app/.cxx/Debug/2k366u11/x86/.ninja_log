@@ -1,0 +1,5 @@
+# ninja log v5
+0	2	0	/home/ubuntu/SignalStrengthApp/android/app/.cxx/Debug/2k366u11/x86/CMakeFiles/cmake.verify_globs	468a6117a6ddcc2
+1	1628	1751425247372112098	CMakeFiles/appmodules.dir/home/ubuntu/SignalStrengthApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	747777b232ba63a1
+1	1829	1751425247572123844	CMakeFiles/appmodules.dir/OnLoad.cpp.o	35da67096b19f782
+1829	1868	1751425247621126722	/home/ubuntu/SignalStrengthApp/android/app/build/intermediates/cxx/Debug/2k366u11/obj/x86/libappmodules.so	32fb157da2589dec
