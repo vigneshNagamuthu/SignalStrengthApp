@@ -1,6 +1,6 @@
 {
-  "root": "/home/ubuntu/Documents/Sandbox/SignalStrengthApp",
-  "reactNativePath": "/home/ubuntu/Documents/Sandbox/SignalStrengthApp/node_modules/react-native",
+  "root": "/Users/sean/Local/Latest/SignalStrengthApp",
+  "reactNativePath": "/Users/sean/Local/Latest/SignalStrengthApp/node_modules/react-native",
   "reactNativeVersion": "0.80",
   "dependencies": {},
   "commands": [
@@ -165,7 +165,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "/home/ubuntu/Documents/Sandbox/SignalStrengthApp"
+          "default": "/Users/sean/Local/Latest/SignalStrengthApp"
         },
         {
           "name": "--platform <string>",
@@ -222,7 +222,7 @@
         {
           "name": "--terminal <string>",
           "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
-          "default": "xterm-256color"
+          "default": "vscode"
         },
         {
           "name": "--binary-path <string>",
@@ -390,7 +390,7 @@
         {
           "name": "--terminal <string>",
           "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
-          "default": "xterm-256color"
+          "default": "vscode"
         },
         {
           "name": "--appId <string>",
@@ -465,7 +465,7 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "/home/ubuntu/Documents/Sandbox/SignalStrengthApp/ios",
+      "sourceDir": "/Users/sean/Local/Latest/SignalStrengthApp/ios",
       "xcodeProject": {
         "name": "SignalStrengthApp.xcodeproj",
         "path": ".",
@@ -474,7 +474,7 @@
       "assets": []
     },
     "android": {
-      "sourceDir": "/home/ubuntu/Documents/Sandbox/SignalStrengthApp/android",
+      "sourceDir": "/Users/sean/Local/Latest/SignalStrengthApp/android",
       "appName": "app",
       "packageName": "com.signalstrengthapp",
       "applicationId": "com.signalstrengthapp",
